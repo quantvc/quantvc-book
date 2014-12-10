@@ -42,5 +42,22 @@ Get the account info in the passpack.
 Register the passpack account, And the common password will share in the team.   
 https://www.passpack.com
 
+### Continuous Integration 
+
+https://circleci.com/
+
+### Automatic Deployed
+
+https://codeship.com
+
+### System Monitor
+
+https://www.datadoghq.com/
+
+### Online document files
+
+https://www.google.com/drive/
+
+
 
 
