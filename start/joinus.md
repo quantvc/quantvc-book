@@ -39,7 +39,7 @@ Get the account info in the passpack.
 
 ### passpack
 
-Register the passpack account, And the common password will share in the team. 
+Register the passpack account, And the common password will share in the team.   
 https://www.passpack.com
 
 
