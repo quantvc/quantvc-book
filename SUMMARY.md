@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * code quality
-* Join us
+* Join Us
 
