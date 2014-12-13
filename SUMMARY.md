@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Join Us
+* Start
 * code quality
 
