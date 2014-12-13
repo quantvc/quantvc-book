@@ -1,5 +1,7 @@
 # Quant.VC Teams 
 
+## Preparation
+
 ### Email   
 The Teams email will use the  `@quant.vc` as the email domain. Please contact the administrator to get the email account.
 ### Bitbucket
@@ -15,6 +17,7 @@ https://github.com/quantvc
 Generally we use gitbook to editor the document, and share the document in the team.
 
 Register the gitbook account and join us.  
+
 http://www.gitbook.com/book/nooperpudd/quantvc/
 
 And the book github link:   
@@ -30,7 +33,7 @@ https://trello.com/quantvc
 https://slack.com/
 
 First, you need to enter the team slack domain:
-quantventure.slack.com and use the `@quant.vc` email to login the slack.
+`quantventure.slack.com` and use the `@quant.vc` email to login the slack.
 
 ### dropbox
 
@@ -42,21 +45,65 @@ Get the account info in the passpack.
 Register the passpack account, And the common password will share in the team.   
 https://www.passpack.com
 
+### Google Doc
+
+https://driver.google.com/
+
+
+
+## Work Flow 
+
 ### Continuous Integration 
+
+https://travis-ci.org/
 
 https://circleci.com/
 
-### Automatic Deployed
+## Exceptions
 
-https://codeship.com
+https://getsentry.com 
 
-### System Monitor
+https://raygun.io/
+
+## Log Management
+
+https://papertrailapp.com
+
+## Code Review
+
+http://phabricator.org/
+
+## Software support and analysis & SaaS Apps monitoring
+
+https://newrelic.com
 
 https://www.datadoghq.com/
 
-### Online document files
+## Awesome Tools
 
-https://www.google.com/drive/
+Share more information between different website and connection.
+
+https://ifttt.com
+
+## Real-time Web analysis
+
+https://www.gosquared.com/
+
+### Automated Delivery and Deployment
+
+https://codeship.com
+
+### Free CI Tools -- Jenkins
+
+http://jenkins-ci.org/
+
+
+## TIPS
+
+Find more awesome tools to support the teams, please visit :  http://www.hackertoolbox.com/
+
+
+
 
 
 
