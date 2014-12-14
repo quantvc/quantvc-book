@@ -4,7 +4,7 @@
 * Start
    * Join Us
    * Work Flow
-* code quality
+* Quality
 * Finance
 * Devops
 
