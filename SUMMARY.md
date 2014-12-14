@@ -1,11 +1,20 @@
 # Summary
 
 * [Introduction](README.md)
-* Start
-   * Join Us
-   * Work Flow
-* Learn Resource
-* Quality
+* [Start](Start.md) 
+   * [Join Us](start/JoinUs.md)
+   * [Work Flow](start/Workflow.md)
+* [Learn Resource](Learn.md)
+   * [Python](lean/Python.md)
+   * [R](learn/R.md)
+   * [Mathematics](lean/math.md)
+   * [Finance](lean/Finance.md)
+   * [Quantitative](learn/QuantitativeAnalysis.md)
+   * [Website](lean/Website.md)
+   * [Books](lean/Books.md)
+   * [Others](lean/Others.md)
+* [Quality](Quality.md)
+   * [Code Quality](quality/Code.md)
 * Finance
 * Devops
 
