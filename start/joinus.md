@@ -50,7 +50,6 @@ https://www.passpack.com
 https://driver.google.com/
 
 
-
 ## Work Flow 
 
 ### Continuous Integration 
@@ -97,11 +96,9 @@ https://codeship.com
 
 http://jenkins-ci.org/
 
-
 ### Code Quality
 
 https://landscape.io/
-
 
 ## TIPS
 
