@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Start](Start.md) 
+* [Start](Start.md)
    * [Join Us](start/JoinUs.md)
    * [Work Flow](start/Workflow.md)
 * [Learn Resource](Learn.md)
@@ -15,6 +15,6 @@
    * [Others](lean/Others.md)
 * [Quality](Quality.md)
    * [Code Quality](quality/Code.md)
-* Finance
-* Devops
+* [Finance](Finance.md)
+* [Devops](Devops.md)
 
