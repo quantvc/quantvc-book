@@ -5,6 +5,10 @@
 ### Email   
 The Teams email will use the  `@quant.vc` as the email domain. Please contact the administrator to get the email account.
 
+Email Address Link:  
+https://exmail.qq.com/
+
+
 ### Bitbucket
 Register the bitbucket account and join the team.  
 https://bitbucket.org/quantventure
@@ -32,10 +36,11 @@ https://trello.com/
 https://trello.com/quantvc
 
 ### slack
-https://slack.com/
+
+https://slack.com/signin
 
 First, you need to enter the team slack domain:
-`quantventure.slack.com` and use the `@quant.vc` email to login the slack.
+`quantventure.slack.com` and use the `@quant.vc` email to register the slack account.
 
 ### dropbox
 To share the team files and docs, We use the dropbox.
