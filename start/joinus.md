@@ -14,7 +14,7 @@ Register the Github account and join the team.
 https://github.com/quantvc
 
 ### gitbook 
-Generally we use gitbook to editor the document, and share the document in the team.
+Generally we use gitbook to edit the document, and share the document in the team.
 Register the gitbook account and join us.  
 
 http://www.gitbook.com/book/nooperpudd/quantvc/
