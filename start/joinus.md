@@ -98,6 +98,11 @@ https://codeship.com
 http://jenkins-ci.org/
 
 
+### Code Quality
+
+https://landscape.io/
+
+
 ## TIPS
 
 Find more awesome tools to support the teams, please visit :  http://www.hackertoolbox.com/
