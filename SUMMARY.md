@@ -7,4 +7,5 @@
 * Quality
 * Finance
 * Devops
+* Learn Resource
 
