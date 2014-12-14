@@ -25,6 +25,7 @@ https://github.com/quantvc/quantvc-book
 ### trello 
 Register the trello account.  
 https://trello.com/  
+
 https://trello.com/quantvc
 
 ### slack
@@ -48,11 +49,11 @@ https://driver.google.com/
 ## Work Flow 
 
 ### Continuous Integration 
-https://travis-ci.org/
+https://travis-ci.org/  
 https://circleci.com/
 
 ## Exceptions
-https://getsentry.com 
+https://getsentry.com   
 https://raygun.io/
 
 ## Log Management
@@ -62,7 +63,7 @@ https://papertrailapp.com
 http://phabricator.org/
 
 ## Software support and analysis & SaaS Apps monitoring
-https://newrelic.com
+https://newrelic.com  
 https://www.datadoghq.com/
 
 ## Awesome Tools
