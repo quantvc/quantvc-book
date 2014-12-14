@@ -22,6 +22,9 @@ http://www.gitbook.com/book/nooperpudd/quantvc/
 And the book github link:   
 https://github.com/quantvc/quantvc-book
 
+Download the Gitbook editor:  
+https://github.com/GitbookIO/editor/releases
+
 ### trello 
 Register the trello account.  
 https://trello.com/  
