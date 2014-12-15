@@ -37,7 +37,7 @@ https://trello.com/quantvc
 
 ### slack
 
-https://slack.com/signin
+https://quantventure.slack.com/signup
 
 First, you need to enter the team slack domain:
 `quantventure.slack.com` and use the `@quant.vc` email to register the slack account.
