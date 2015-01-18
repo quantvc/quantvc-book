@@ -5,7 +5,7 @@
    * [Join Us](start/JoinUs.md)
    * [Work Flow](start/Workflow.md)
 * [Learn Resource](Learn.md)
-   * [Python](lean/Python.md)
+   * [Python](lean/python.md)
    * [R](learn/R.md)
    * [Mathematics](lean/math.md)
    * [Finance](lean/Finance.md)
